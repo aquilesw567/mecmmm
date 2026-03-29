@@ -1,0 +1,15 @@
+# Standard Python .gitignore file
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+.venv/
+
+# IDE directories
+.vscode/
+.idea/
+
+# Egg info
+*.egg-info/
