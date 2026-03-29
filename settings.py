@@ -1,0 +1,1 @@
+{\n    "setting1": "value1",\n    "setting2": "value2"\n}
